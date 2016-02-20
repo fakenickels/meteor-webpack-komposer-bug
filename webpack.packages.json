@@ -19,6 +19,6 @@
 
   "react-transform-hmr": "^1.0.0",
   "react-transform-catch-errors": "^1.0.0",
-  "sanitize-html": "^1.11.3",
-  "redbox-react": "^1.2.0"
+  "redbox-react": "^1.2.0",
+  "react-komposer": "^1.3.1"
 }
